@@ -1,0 +1,1 @@
+This is seawren's first git project (can we really call it a project?)
